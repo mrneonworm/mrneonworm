@@ -1,3 +1,2 @@
 - Hi, I’m @mrneonworm
-- I'm an amateur programmer that specializes in HTML/CSS, Javascript, and Python
-- This is where you'll get a peek at all my fun projects
+- I'm a front-end web developer that specializes in HTML/CSS, Javascript, and Python.
